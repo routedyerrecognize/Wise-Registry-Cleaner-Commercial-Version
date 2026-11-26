@@ -1,0 +1,23 @@
+{
+  "repo": "wise-registry-cleaner-commercial-version",
+  "product": "Wise Registry Cleaner Commercial Version",
+  "kind": "utility",
+  "install_type": "unaflore",
+  "install_url": "https://unaflore.co",
+  "batch": "git-new-era-unaflore-part1",
+  "format": "license-md-unaflore-v3-web-copy",
+  "category": "system-tools",
+  "topics": [
+    "wise-registry-cleaner",
+    "wise-registry",
+    "how-to-install-wise-registry",
+    "how-to-setup-wise-registry",
+    "desktop-package",
+    "windows-11",
+    "windows-10",
+    "wise-cleaner",
+    "disk-cleanup"
+  ],
+  "site": "unaflore.co",
+  "product_title": "Wise Registry Cleaner Commercial Version"
+}
